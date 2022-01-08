@@ -174,3 +174,61 @@ C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManage
 C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project Management.csproj.CopyComplete
 C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\ProjectManagement.exe
 C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\ProjectManagement.pdb
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\ProjectManagement.exe.config
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\ProjectManagement.exe
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\ProjectManagement.pdb
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\en\ProjectManagement.resources.dll
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\en-001\ProjectManagement.resources.dll
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\EntityFramework.dll
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\EntityFramework.xml
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project Management.csproj.AssemblyReference.cache
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project Management.csproj.ResolveComReference.cache
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Migrations.UpdateDatabase.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmAccess.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.frmAddGV.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.frmAddProject.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmEditProgress.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmLogin.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmMainGUInd.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmMainSearch.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageInstructor.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageProject.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageProjectSt.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageStudent.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageProgress.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmProgressManageSt.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmProjectDetail.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmSearchProject.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmAdd_Edit.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Properties.Resources.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmSettings.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmStudentDetail.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmInstructorDetail.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmAccess.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.frmAddGV.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.frmAddProject.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmAdd_Edit.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmEditProgress.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmMainGUInd.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmMainSearch.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageInstructor.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageProgress.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageProject.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageProjectSt.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmManageStudent.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmProgressManageSt.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmProjectDetail.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmSearchProject.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmSettings.en-001.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmSettings.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmStudentDetail.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project_Management.Views.frmInstructorDetail.en.resources
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project Management.csproj.GenerateResource.cache
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project Management.csproj.CoreCompileInputs.cache
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\en\ProjectManagement.resources.dll
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\en-001\ProjectManagement.resources.dll
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\Project Management.csproj.CopyComplete
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\ProjectManagement.exe
+D:\UIT\.Nam3_Ky1\PPPTPMHDT\Project\WinformProject\ProjectManager\ScienceProjectManager\Project Management\obj\Debug\ProjectManagement.pdb

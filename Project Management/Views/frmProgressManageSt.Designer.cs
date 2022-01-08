@@ -180,6 +180,7 @@ namespace Project_Management.Views
             // 
             // panel12
             // 
+            this.panel12.BackgroundImage = global::Project_Management.Properties.Resources._292_2923379_undergraduate_education_logo_for_education_png_transparent_png1;
             resources.ApplyResources(this.panel12, "panel12");
             this.panel12.Name = "panel12";
             // 

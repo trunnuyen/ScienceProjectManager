@@ -1,6 +1,6 @@
 Yêu cầu: Microsoft SQL Sever Management Studio 18
 Đảm bảo dịch vụ SQL Sever đang chạy
-Mở Microsoft SQL Sever Management Studio và nhấn "connect"
+Chạy file script trong SQL Sever Management Studio
 Mở project và chạy, hệ thống sẽ tự động kết nối với database
 
 Tài khoản admin: 195 - 195
