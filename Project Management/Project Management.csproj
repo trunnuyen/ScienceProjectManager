@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A447AC1E-27F4-47C6-82FB-D046BB58E3FD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project_Management</RootNamespace>
+    <AssemblyName>ProjectManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\FacultyController.cs" />
+    <Compile Include="Controllers\ProgressController.cs" />
+    <Compile Include="Controllers\ReportController.cs" />
+    <Compile Include="Controllers\SubjectController.cs" />
+    <Compile Include="Migrations\202201021344384_Update-Database.cs" />
+    <Compile Include="Migrations\202201021344384_Update-Database.designer.cs">
+      <DependentUpon>202201021344384_Update-Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\DBentityProject.cs" />
+    <Compile Include="Models\Faculty.cs" />
+    <Compile Include="Models\Progress.cs" />
+    <Compile Include="Models\Report.cs" />
+    <Compile Include="Models\Subject.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmAccess.Designer.cs">
+      <DependentUpon>frmAccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmAddGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmAddGV.designer.cs">
+      <DependentUpon>frmAddGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmAddProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmAddProject.designer.cs">
+      <DependentUpon>frmAddProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmEditProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmEditProgress.designer.cs">
+      <DependentUpon>frmEditProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmMainGUInd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmMainGUInd.designer.cs">
+      <DependentUpon>frmMainGUInd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmMainSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmMainSearch.designer.cs">
+      <DependentUpon>frmMainSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmManageInstructors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmManageInstructors.designer.cs">
+      <DependentUpon>frmManageInstructors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmManageProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmManageProject.designer.cs">
+      <DependentUpon>frmManageProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmManageProjectSt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmManageProjectSt.Designer.cs">
+      <DependentUpon>frmManageProjectSt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmManageStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmManageStudent.designer.cs">
+      <DependentUpon>frmManageStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmManageProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmManageProgress.designer.cs">
+      <DependentUpon>frmManageProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmProgressManageSt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmProgressManageSt.Designer.cs">
+      <DependentUpon>frmProgressManageSt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmProjectDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmProjectDetail.designer.cs">
+      <DependentUpon>frmProjectDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmSearchProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmSearchProject.designer.cs">
+      <DependentUpon>frmSearchProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmAdd_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmAdd_Edit.designer.cs">
+      <DependentUpon>frmAdd_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\GVController.cs" />
+    <Compile Include="Models\Instructor.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Models\Project.cs" />
+    <Compile Include="Controllers\ProjectController.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Models\Student.cs" />
+    <Compile Include="Controllers\StudentController.cs" />
+    <Compile Include="Views\frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmSettings.Designer.cs">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmStudentDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmStudentDetail.designer.cs">
+      <DependentUpon>frmStudentDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmTeacherDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmTeacherDetail.designer.cs">
+      <DependentUpon>frmTeacherDetail.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Migrations\202201021344384_Update-Database.resx">
+      <DependentUpon>202201021344384_Update-Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmAccess.en.resx">
+      <DependentUpon>frmAccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmAccess.resx">
+      <DependentUpon>frmAccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmAddGV.en.resx">
+      <DependentUpon>frmAddGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmAddGV.resx">
+      <DependentUpon>frmAddGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmAddProject.en.resx">
+      <DependentUpon>frmAddProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmAddProject.resx">
+      <DependentUpon>frmAddProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmAdd_Edit.en.resx">
+      <DependentUpon>frmAdd_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmEditProgress.en.resx">
+      <DependentUpon>frmEditProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmEditProgress.resx">
+      <DependentUpon>frmEditProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmMainGUInd.en.resx">
+      <DependentUpon>frmMainGUInd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmMainGUInd.resx">
+      <DependentUpon>frmMainGUInd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmMainSearch.en.resx">
+      <DependentUpon>frmMainSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmMainSearch.resx">
+      <DependentUpon>frmMainSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageInstructors.en.resx">
+      <DependentUpon>frmManageInstructors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageInstructors.resx">
+      <DependentUpon>frmManageInstructors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageProgress.en.resx">
+      <DependentUpon>frmManageProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageProject.en.resx">
+      <DependentUpon>frmManageProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageProject.resx">
+      <DependentUpon>frmManageProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageProjectSt.en.resx">
+      <DependentUpon>frmManageProjectSt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageProjectSt.resx">
+      <DependentUpon>frmManageProjectSt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageStudent.en.resx">
+      <DependentUpon>frmManageStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageStudent.resx">
+      <DependentUpon>frmManageStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmManageProgress.resx">
+      <DependentUpon>frmManageProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmProgressManageSt.en.resx">
+      <DependentUpon>frmProgressManageSt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmProgressManageSt.resx">
+      <DependentUpon>frmProgressManageSt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmProjectDetail.en.resx">
+      <DependentUpon>frmProjectDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmProjectDetail.resx">
+      <DependentUpon>frmProjectDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmSearchProject.en.resx">
+      <DependentUpon>frmSearchProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmSearchProject.resx">
+      <DependentUpon>frmSearchProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmAdd_Edit.resx">
+      <DependentUpon>frmAdd_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmSettings.en-001.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmSettings.en.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmSettings.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmStudentDetail.en.resx">
+      <DependentUpon>frmStudentDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmStudentDetail.resx">
+      <DependentUpon>frmStudentDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmTeacherDetail.en.resx">
+      <DependentUpon>frmTeacherDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmTeacherDetail.resx">
+      <DependentUpon>frmTeacherDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Controllers\ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\task.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\maximize.png" />
+    <None Include="Resources\maximize %281%29.png" />
+    <None Include="Resources\flower.png" />
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\292-2923379_undergraduate-education-logo-for-education-png-transparent-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_exit_sign_64px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_student_male_64px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_man_with_beard_in_blue_glasses_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_book_and_pencil_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_report_card_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_view_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_gears_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_shutdown_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\a.png" />
+    <Content Include="Resources\background.png" />
+    <Content Include="Resources\button - Copy.png" />
+    <Content Include="Resources\curve-arrow.png" />
+    <Content Include="Resources\daisy %281%29.ico" />
+    <Content Include="Resources\graduate.png" />
+    <Content Include="Resources\icons8_prototype_64px.png" />
+    <None Include="Resources\icons8_prototype_64px1.png" />
+    <Content Include="Resources\icons8_school_director_male_skin_type_3_64px.png" />
+    <None Include="Resources\icons8_school_director_male_skin_type_3_64px1.png" />
+    <None Include="Resources\icons8_search_64px.png" />
+    <Content Include="Resources\icons8_settings_64px.png" />
+    <None Include="Resources\icons8_settings_64px1.png" />
+    <Content Include="Resources\icons8_shutdown_64px_1.png" />
+    <None Include="Resources\icons8_shutdown_64px_11.png" />
+    <Content Include="Resources\icons8_spreadsheet_64px.png" />
+    <None Include="Resources\icons8_spreadsheet_64px1.png" />
+    <Content Include="Resources\icons8_student_male_64px_6.png" />
+    <None Include="Resources\icons8_student_male_64px_61.png" />
+    <Content Include="Resources\icons8_web_design_64px.png" />
+    <None Include="Resources\icons8_web_design_64px1.png" />
+    <Content Include="Resources\progress.png" />
+    <Content Include="Resources\project.png" />
+    <Content Include="Resources\search-file.png" />
+    <Content Include="Resources\search.png" />
+    <Content Include="Resources\settings.png" />
+    <Content Include="Resources\teacher.png" />
+    <Content Include="Resources\tải xuống %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

@@ -1,0 +1,176 @@
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\ProjectManagement.exe.config
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\ProjectManagement.exe
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\ProjectManagement.pdb
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\EntityFramework.dll
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\EntityFramework.xml
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project Management.csprojAssemblyReference.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.frmAddGV.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.frmAddProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmEditProgress.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmMain.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmMainGUInd.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmMainSearch.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmManageInstructor.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmManageStudent.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProgress.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmProjectDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmSearchProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmAdd_Edit.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Properties.Resources.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmSettings.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmStudentDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmInstructorDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project Management.csproj.GenerateResource.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project Management.csproj.CoreCompileInputs.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project Management.csproj.CopyComplete
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\ProjectManagement.exe
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\ProjectManagement.pdb
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\ProjectManagement.exe.config
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\ProjectManagement.exe
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\ProjectManagement.pdb
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\EntityFramework.dll
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\EntityFramework.xml
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project Management.csprojAssemblyReference.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.frmAddGV.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.frmAddProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmEditProgress.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmMain.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmMainGUInd.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmMainSearch.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmManageInstructor.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmManageStudent.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProgress.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmProjectDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmSearchProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmAdd_Edit.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Properties.Resources.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmSettings.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmStudentDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmInstructorDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project Management.csproj.GenerateResource.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project Management.csproj.CoreCompileInputs.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project Management.csproj.CopyComplete
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\ProjectManagement.exe
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\ProjectManagement.pdb
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\ProjectManagement.exe.config
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\ProjectManagement.exe
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\ProjectManagement.pdb
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project Management.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.frmAddGV.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.frmAddProject.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmEditProgress.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmMainGUInd.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmMainSearch.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageInstructor.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProject.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageStudent.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProgress.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmProjectDetail.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmSearchProject.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmAdd_Edit.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmSettings.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmStudentDetail.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmInstructorDetail.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project Management.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project Management.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project Management.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\ProjectManagement.exe
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\ProjectManagement.pdb
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmLogin.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Migrations.UpdateDatabase.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmAccess.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProjectSt.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmProgressManageSt.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\en-001\ProjectManagement.resources.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmSettings.en-001.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\en-001\ProjectManagement.resources.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\bin\Debug\en\ProjectManagement.resources.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmSettings.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\en\ProjectManagement.resources.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmMainSearch.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmProgressManageSt.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmAccess.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.frmAddGV.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.frmAddProject.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmAdd_Edit.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmEditProgress.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmMainGUInd.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageInstructor.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProgress.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProject.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProjectSt.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmManageStudent.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmProjectDetail.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmSearchProject.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmStudentDetail.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project_Management.Views.frmInstructorDetail.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Đồ án 01\obj\Debug\Project Management.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\ProjectManagement.exe.config
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\ProjectManagement.exe
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\ProjectManagement.pdb
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\en\ProjectManagement.resources.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\en-001\ProjectManagement.resources.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project Management.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project Management.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Migrations.UpdateDatabase.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmAccess.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.frmAddGV.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.frmAddProject.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmEditProgress.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmLogin.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmMainGUInd.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmMainSearch.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageInstructor.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageProject.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageProjectSt.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageStudent.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageProgress.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmProgressManageSt.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmProjectDetail.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmSearchProject.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmAdd_Edit.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmSettings.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmStudentDetail.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmInstructorDetail.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmAccess.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.frmAddGV.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.frmAddProject.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmAdd_Edit.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmEditProgress.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmMainGUInd.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmMainSearch.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageInstructor.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageProgress.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageProject.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageProjectSt.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmManageStudent.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmProgressManageSt.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmProjectDetail.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmSearchProject.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmSettings.en-001.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmSettings.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmStudentDetail.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project_Management.Views.frmInstructorDetail.en.resources
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project Management.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project Management.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\en\ProjectManagement.resources.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\en-001\ProjectManagement.resources.dll
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\Project Management.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\ProjectManagement.exe
+C:\Users\Admin\Downloads\QuanLyDoAn_Nhom7-master\QuanLyDoAn_Group7\ProjectManagementLTW\Project Management\obj\Debug\ProjectManagement.pdb
