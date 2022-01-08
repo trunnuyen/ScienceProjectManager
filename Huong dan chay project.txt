@@ -1,0 +1,8 @@
+Yêu cầu: Microsoft SQL Sever Management Studio 18
+Đảm bảo dịch vụ SQL Sever đang chạy
+Mở Microsoft SQL Sever Management Studio và nhấn "connect"
+Mở project và chạy, hệ thống sẽ tự động kết nối với database
+
+Tài khoản admin: 195 - 195
+Tài khoản user: 1234 - 1234
+Tài khoản student: 1004 - 1004
